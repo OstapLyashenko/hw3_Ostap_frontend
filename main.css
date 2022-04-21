@@ -1,0 +1,19 @@
+font-face{
+src: url("./BebasNeue-Regular.ttf");
+    font-family: 'BebasNeue-Regular';
+}
+* {
+    text-align: center;
+    background-color: rgba(121, 12, 121, 0.2);
+    line-height: 1.4;
+    font-weight: 400;
+    font-family: 'BebasNeue-Regular', sans-serif;
+}
+div {
+    background-color: white;
+}
+body {
+    background-color: rgba(121, 12, 121, 0.2);
+}
+
+ 
